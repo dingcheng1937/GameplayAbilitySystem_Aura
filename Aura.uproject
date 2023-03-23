@@ -3,6 +3,7 @@
 	"EngineAssociation": "5.2",
 	"Category": "",
 	"Description": "",
+
 	"Modules": [
 		{
 			"Name": "Aura",
@@ -10,6 +11,7 @@
 			"LoadingPhase": "Default"
 		}
 	],
+
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
