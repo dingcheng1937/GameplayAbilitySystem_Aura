@@ -1,4 +1,5 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright Dingcheng
+
 
 using UnrealBuildTool;
 using System.Collections.Generic;
