@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "Characters/AuraCharacterBase.h"
+#include "Character/AuraCharacterBase.h"
 #include "AuraCharacter.generated.h"
 
 /**
