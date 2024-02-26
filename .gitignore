@@ -67,3 +67,5 @@ Build
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+.vsconfig
